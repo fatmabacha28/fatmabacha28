@@ -20,7 +20,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <span>
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg" alt="php" style="max-width: 100%;">
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg" alt="php" style="max-width: 100%;">
 </span>
 <br/>
 
